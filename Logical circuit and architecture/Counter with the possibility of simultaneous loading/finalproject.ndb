@@ -1,0 +1,122 @@
+NDB006
+The number of symbol table entries is: 5
+The length of the symbol table is: 45
+
+Index Hierarchy Path
+----- --------------
+!	&null_hpath&
+.	|p1:47|
+6	|p1:49|
+>	|p1:50|
+F	|p1:48|
+
+The number of name info structs is : 106
+
+InsOrder BitField SymTableIndex NextSyn SynParent Loc ChainType NextChain ChainParent FanOut DirExp ParExp ShareExp NodeName
+-------- -------- ------------- ------- --------- --- --------- --------- ----------- ------ ------ ------ -------- --------
+"	IGdW	!	:13	":
+#	IGdW	!	:14	"@
+$	IGdW	!	:15	"A
+%	IGdW	!	:16	"?
+&	IGdW	!	:17	"<
+'	IGdW	!	:18	">
+(	IGdW	!	:19	";
+)	IGdW	!	:20	"=
+*	IGdW	!	:21	"J
++	IGdW	!	:22	"K
+,	IGdW	!	:23	"L
+-	IGdW	!	:24	"G
+.	IGdW	!	:25	"F
+/	IGdW	!	:26	"H
+0	IGdW	!	:27	"D
+1	IGdW	!	:28	"B
+2	IGdW	!	:29	"E
+3	IGdW	!	:30	"M
+4	IGdW	!	:31	"N
+5	IGdW	!	:32	"S
+6	IGdW	!	:33	"P
+7	IGdW	!	:34	"U
+8	IGdW	!	:35	"T
+9	IGdW	!	:36	"I
+:	IGdW	!	:37	"R
+;	IGdW	!	:38	"Q
+<	IGdW	!	:43	"O
+=	IGdW	!	:44	"C
+>	Ky&}	!	9	?	R	U	]	`	h	k	s	v	A0	{
+?	Ky&}	!	7	?	]	`	h	k	s	v	A1	z
+@	Ky&}	!	4	h	k	s	v	A2	y
+A	Ky&}	!	2	s	v	A3	x
+B	NLG+	!	5	C_out	w
+C	Ky&|	!	9	?	R	U	]	`	h	k	s	v	CLK	v
+D	Ky&|	!	10	?	B	R	U	]	`	h	k	s	v	Count	o
+E	Ky&|	!	2	R	U	l0	q
+F	Ky&|	!	3	?	]	`	l1	t
+G	Ky&|	!	2	h	k	l2	s
+H	Ky&|	!	2	s	v	l3	r
+I	Ky&|	!	10	?	B	R	U	]	`	h	k	s	v	Load	u
+J	Ky&|	!	4	U	`	k	v	RESET	p
+K	IGdW	.	:17	"a
+L	IGdW	.	:18	"b
+M	IVOQ	.	P	:23	"c
+N	IGdW	.	:25	"d
+O	IVOQ	.	Q	:28	"e
+P	INu}	.	M	Q	"c
+Q	INu}	.	O	Qnor	"e
+R	Kx.7	.	2	>	B	~17~1	"a
+S	IFkI	.	~18~1	"b
+T	IFkI	.	~23~1	"c
+U	P|nO	.	3	>	B	U	1	~25~1	"d
+V	IGdW	F	:17	#1
+W	IGdW	F	:18	#2
+X	IVOQ	F	[	:23	#3
+Y	IGdW	F	:25	#4
+Z	IVOQ	F	\	:28	#5
+[	INu}	F	X	Q	#3
+\	INu}	F	Z	Qnor	#5
+]	Kx.7	F	1	B	~17~1	#1
+^	IFkI	F	~18~1	#2
+_	IFkI	F	~23~1	#3
+`	P|nO	F	3	?	B	`	1	~25~1	#4
+a	IGdW	6	:17	"q
+b	IGdW	6	:18	"r
+c	IVOQ	6	f	:23	"s
+d	IGdW	6	:25	"t
+e	IVOQ	6	g	:28	"u
+f	INu}	6	c	Q	"s
+g	INu}	6	e	Qnor	"u
+h	Kx.7	6	2	@	B	~17~1	"q
+i	IFkI	6	~18~1	"r
+j	IFkI	6	~23~1	"s
+k	P|nO	6	3	@	B	k	1	~25~1	"t
+l	IGdW	>	:17	#"
+m	IGdW	>	:18	##
+n	IVOQ	>	q	:23	#$
+o	IGdW	>	:25	#%
+p	IVOQ	>	r	:28	#&
+q	INu}	>	n	Q	#$
+r	INu}	>	p	Qnor	#&
+s	Kx.7	>	2	A	B	~17~1	#"
+t	IFkI	>	~18~1	##
+u	IFkI	>	~23~1	#$
+v	P|nO	>	3	A	B	v	1	~25~1	#%
+w	IFkI	!	~13~1	":
+x	IFkI	!	~14~1	"@
+y	IFkI	!	~15~1	"A
+z	IFkI	!	~16~1	"?
+{	IFkI	!	~17~1	"<
+|	IFkI	!	~18~1	">
+}	IFkI	!	~19~1	";
+~	IFkI	!	~20~1	"=
+"!	IFkI	!	~21~1	"J
+""	IFkI	!	~22~1	"K
+"#	IFkI	!	~23~1	"L
+"$	IFkI	!	~24~1	"G
+"%	IFkI	!	~25~1	"F
+"&	IFkI	!	~26~1	"H
+"'	IFkI	!	~27~1	"D
+"(	IFkI	!	~28~1	"B
+")	IFkI	!	~29~1	"E
+"*	IFkI	!	~30~1	"M
+"+	IFkI	!	~31~1	"N
+",	IFkI	!	~36~1	"I
+"-	IFkI	!	~44~1	"C
